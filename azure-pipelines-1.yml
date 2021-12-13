@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: MyPool
+pool: dhina
 
 steps:
 - task: Maven@3
